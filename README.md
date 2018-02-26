@@ -17,6 +17,8 @@ Date|Topic
 2018-03-19|The effect of black holes on the retinal system of bottom-dwelling ciclids in Lake Victoria in winter when it is cloudy 
 2018-04-02|The effect of alternative universes on Darwinian sexual selection on costless and honest traits on species in those universes
 2018-04-16|Practice of evolutionary medicine by Mesoamericans in Teotihuacan from 250-500 AD 
+2018-04-30|Realistic gas dynamics modeling in in silico vacua
+2018-05-14|The effect of waterbody names on mitochondrial cAMP levels in flagellated microbenthos
 
 ## Discussed
 
