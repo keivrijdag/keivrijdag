@@ -12,9 +12,10 @@ Everything one needs to know about Giocomonday.
 
 Date|Topic
 ---|---
-2018-03-05|The effect of intergalactic dark matter at micro-evolutionary scales
-2018-03-19|Emergent properties in simple single-agent systems
-2018-04-02|The effect of black holes on the retinal system of ciclids in Lake Victoria in winter when it is cloudy 
+2018-02-26|The effect of intergalactic dark matter at micro-evolutionary scales
+2018-03-05|Emergent properties in simple single-agent systems
+2018-03-19|The effect of black holes on the retinal system of bottom-dwelling ciclids in Lake Victoria in winter when it is cloudy 
+2018-04-02|The effect of alternative universes on Darwinian sexual selection on costless and honest traits in species in those universes
 
 ## Discussed
 
