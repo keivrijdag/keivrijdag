@@ -12,12 +12,11 @@ Everything one needs to know about Giocomonday.
 
 Date|Topic
 ---|---
-2018-03-05|Emergent properties in single-rule single-agent systems in featureless donut-shaped worlds
-2018-03-19|The effect of black holes on the retinal system of bottom-dwelling ciclids in Lake Victoria in winter when it is cloudy 
-2018-04-02|The effect of alternative universes on Darwinian sexual selection on costless and honest traits on species in those universes
-2018-04-16|Practice of evolutionary medicine by Mesoamericans in Teotihuacan at March 14th 159 AD 
-2018-04-30|Realistic gas dynamics modeling in in silico perfect vacua
-2018-05-14|The effect of waterbody names on mitochondrial cAMP levels in flagellated microbenthos
+2018-03-12|The effect of black holes on the retinal system of bottom-dwelling ciclids in Lake Victoria in winter when it is cloudy 
+2018-03-26|The effect of alternative universes on Darwinian sexual selection on costless and honest traits on species in those universes
+2018-04-09|Practice of evolutionary medicine by Mesoamericans in Teotihuacan at March 14th 159 AD 
+2018-04-23|Realistic gas dynamics modeling in in silico perfect [*] vacua. [*]: including the modeled gas
+2018-05-07|The effect of waterbody names on mitochondrial cAMP levels in flagellated microbenthos
 
 ## Discussed
 
@@ -25,6 +24,36 @@ Date|Topic
 ---|---
 2018-02-19|The effect of quantum physics at macro-evolutionary scale
 2018-02-26|The effect of intergalactic dark matter at micro-evolutionary scales
+2018-03-05|Emergent properties in single-rule single-agent systems in featureless donut-shaped worlds
+
+## FAQ
+
+### At what time will the topic be discussed?
+
+Discussion starts at 20:00 sharp, until a 
+consensus is reached. Sometimes the discussion
+flares up again later on the evening, but this
+is not encouraged.
+
+### I know little about the topic, can I join anyways?
+
+Great care is taken to select a topic with only
+a modest amount of literature about it. Little
+as it may be, we do try to accept people 
+that may potentially have good reasons not to read up.
+
+### I want to contribute a topic
+
+Great! Send a Pull Request, Issue or email to @richelbilderbeek.
+
+### I only want to join for the gezelligheid. Is that OK?
+
+As can be inferred from the list of topics, we do not
+take science lightly. Sure, we will try to be nice
+to you, but we may be hindered of the idea that we 
+view you as parasitically bathing in our hard-earned 
+wisdom. On the other hand, perhaps we should slow
+down on being serious all the time.
 
 ## History
 
