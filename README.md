@@ -38,8 +38,13 @@ is not encouraged.
 ### I know little about the topic, can I join anyways?
 
 Great care is taken to select a topic with only
-a modest amount of literature about it. Little
-as it may be, we do try to accept people 
+a modest amount of literature about it. If a literature
+search on the topic results in more articles 
+than the Giacomonday Constant,
+a more specific topic is picked. 
+
+Short as the list of academic papers may be, 
+we do try to accept people 
 that may potentially have good reasons not to read up.
 
 ### I want to contribute a topic
@@ -54,6 +59,14 @@ to you, but we may be hindered of the idea that we
 view you as parasitically bathing in our hard-earned 
 wisdom. On the other hand, perhaps we should slow
 down on being serious all the time.
+
+### What is the Giacomonday Constant?
+
+The universal Giacomonday Constant is known since
+already 1700 AD. The Giacomonday Constant, G,
+can be calculated as such:
+
+![Giacomonday constant](giacomonday_constant.png)
 
 ## History
 
