@@ -44,7 +44,7 @@ is not encouraged.
 Great care is taken to select a topic with only
 a modest amount of literature about it. If a literature
 search on the topic results in more articles 
-than the Giacomonday Constant,
+than the Giacoconstant,
 a more specific topic is picked. 
 
 Short as the list of academic papers may be, 
@@ -64,10 +64,10 @@ view you as parasitically bathing in our hard-earned
 wisdom. On the other hand, perhaps we should slow
 down on being serious all the time.
 
-### What is the Giacomonday Constant?
+### What is the Giacoconstant?
 
-The universal Giacomonday Constant is known since
-already 1700 AD. The Giacomonday Constant, G,
+The universal Giacoconstant is known since
+already 1700 AD. The Giacoconstant, G,
 can be calculated as such:
 
 ![Giacomonday constant](giacomonday_constant.png)
@@ -95,5 +95,3 @@ The TECE group has grown, with some new social members being added. Giacomonday
 was revived, with Giacomono being absent (he does get the invitation email, though).
 The Giacomonday got a more serious character, by adding a scientific topic to 
 be informally discussed.
-
-
