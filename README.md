@@ -18,7 +18,7 @@ Date|Topic
 2018-04-02|[No Giacomonday, for now]
 2018-04-09|Practice of evolutionary medicine by Mesoamericans in Teotihuacan at March 14th 159 AD 
 2018-04-16|[No Giacomonday, for now]
-2018-04-23|Realistic gas dynamics modeling in in silico perfect [1] vacua. [1]: including the modeled gas
+2018-04-23|in silico modeling of perfect vacua
 2018-04-30|[No Giacomonday, for now]
 2018-05-07|The effect of waterbody names on mitochondrial cAMP levels in flagellated microbenthos
 
@@ -44,11 +44,10 @@ is not encouraged.
 Great care is taken to select a topic with only
 a modest amount of literature about it. If a literature
 search on the topic results in more articles 
-than the Giacoconstant,
-a more specific topic is picked. 
+than the Giacoconstant, a more specific topic is picked. 
 
 Short as the list of academic papers may be, 
-we do try to accept people 
+we do (try to) accept people 
 that may potentially have good reasons not to read up.
 
 ### I want to contribute a topic
@@ -58,7 +57,7 @@ Great! Send a Pull Request, Issue or email to @richelbilderbeek.
 ### I only want to join for the gezelligheid. Is that OK?
 
 As can be inferred from the list of topics, we do not
-take science lightly. Sure, we will try to be nice
+take science lightly. Sure, we will (try to) be nice
 to you, but we may be hindered of the idea that we 
 view you as parasitically bathing in our hard-earned 
 wisdom. On the other hand, perhaps we should slow
@@ -66,11 +65,12 @@ down on being serious all the time.
 
 ### What is the Giacoconstant?
 
-The universal Giacoconstant is known since
-already 1700 AD. The Giacoconstant, G,
-can be calculated as such:
+The Giacoconstant, G, can be calculated as such:
 
 ![Giacomonday constant](giacomonday_constant.png)
+
+The 'plus one' is to emphasize that we are always
+willing to read that one extra article.
 
 ## History
 
