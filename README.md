@@ -72,6 +72,10 @@ The Giacoconstant, G, can be calculated as such:
 The 'plus one' is to emphasize that we are always
 willing to read that one extra article.
 
+### Don't you think a Monday is a bad day to go to a pub?
+
+Yes. Some of the wiser visitors of Giacomonday thus leave at 22:00.
+
 ## History
 
 ### First era: 2014-2015
