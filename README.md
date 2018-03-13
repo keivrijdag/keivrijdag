@@ -12,7 +12,6 @@ Everything one needs to know about Giocomonday.
 
 Date|Topic
 ---|---
-2018-03-12|The effect of black holes on the retinal system of bottom-dwelling ciclids in Lake Victoria in winter when it is cloudy 
 2018-03-19|[No Giacomonday, for now]
 2018-03-26|The effect of alternative universes on Darwinian sexual selection on costless and honest traits on species in those universes
 2018-04-02|[No Giacomonday, for now]
@@ -29,6 +28,7 @@ Date|Topic
 2018-02-19|The effect of quantum physics at macro-evolutionary scale
 2018-02-26|The effect of intergalactic dark matter at micro-evolutionary scales
 2018-03-05|Emergent properties in single-rule single-agent systems in featureless donut-shaped worlds
+2018-03-12|The effect of black holes on the retinal system of bottom-dwelling ciclids in Lake Victoria in winter when it is cloudy 
 
 ## FAQ
 
@@ -96,6 +96,6 @@ one persevering in being social, and Giacomonday was put in the freezer.
 ### Third era: 2017-onwards
 
 The TECE group has grown, with some new social members being added. Giacomonday
-was revived, with Giacomono being absent (he does get the invitation email, though).
-The Giacomonday got a more serious character, by adding a scientific topic to 
-be informally discussed.
+was revived, with Giacomono being absent (he does get the invitation 
+email, though). The Giacomonday got a more serious character, by 
+adding a scientific topic to be informally discussed.
