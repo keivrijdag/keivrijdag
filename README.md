@@ -4,9 +4,10 @@
 
 Everything one needs to know about Giocomonday.
 
- * What: Giacomonday: informal scientific discussion
+ * What: Giacomonday: informal scientific discussion, see [https://github.com/richelbilderbeek/giacomonday](https://github.com/richelbilderbeek/giacomonday)
  * Where: De Minnaar, Kleine Rozenstraat 64, [www.deminnaar.nl](http://www.deminnaar.nl)
  * When: see dates below, at each date from 20:00 onwards
+ * Topic: see below
 
 ## Future discussions
 
