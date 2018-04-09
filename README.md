@@ -41,7 +41,7 @@ is not encouraged.
 
 ### I know little about the topic, can I join anyways?
 
-Great care is taken to select a topic with only
+Great care is taken in selecting topics with only
 a modest amount of literature about it. If a literature
 search on the topic results in more articles 
 than the Giacoconstant, a more specific topic is picked. 
