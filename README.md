@@ -13,11 +13,14 @@ Everything one needs to know about Giocomonday.
 
 Date|Topic
 ---|---
-2018-04-09|Practice of evolutionary medicine by Mesoamericans in Teotihuacan at March 14th 159 AD 
 2018-04-16|[No Giacomonday, for now]
 2018-04-23|in silico modeling of perfect vacua
 2018-04-30|[No Giacomonday, for now]
 2018-05-07|The effect of waterbody names on mitochondrial cAMP levels in flagellated microbenthos
+2018-05-14|[No Giacomonday, for now]
+2018-05-21|No topic yet
+2018-05-28|[No Giacomonday, for now]
+2018-06-04|No topic yet
 
 ## Discussed
 
@@ -29,6 +32,7 @@ Date|Topic
 2018-03-12|The effect of black holes on the retinal system of bottom-dwelling ciclids in Lake Victoria in winter when it is cloudy 
 2018-03-19|[An unofficial Giacomonday]
 2018-03-26|The effect of alternative universes on Darwinian sexual selection on costless and honest traits on species in those universes
+2018-04-09|Practice of evolutionary medicine by Mesoamericans in Teotihuacan at March 14th 159 AD 
 
 ## FAQ
 
