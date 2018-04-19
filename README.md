@@ -13,7 +13,6 @@ Everything one needs to know about Giocomonday.
 
 Date|Topic
 ---|---
-2018-04-16|[No Giacomonday, for now]
 2018-04-23|in silico modeling of perfect vacua
 2018-04-30|[No Giacomonday, for now]
 2018-05-07|The effect of waterbody names on mitochondrial cAMP levels in flagellated microbenthos
