@@ -66,6 +66,10 @@ view you as parasitically bathing in our hard-earned
 wisdom. On the other hand, perhaps we should slow
 down on being serious all the time.
 
+### Who is the guy in the picture?
+
+That, is Giacomo!
+
 ### What is the Giacoconstant?
 
 The Giacoconstant, G, can be calculated as such:
