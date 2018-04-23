@@ -19,7 +19,7 @@ Date|Topic
 2018-05-14|[No Giacomonday, for now]
 2018-05-21|The effect of typo's in email sent early in the morning on biological simulations running on the same computer 
 2018-05-28|[No Giacomonday, for now]
-2018-06-04|No topic yet
+2018-06-04|The amount of pre-emptive niche filling by absent species
 
 ## Discussed
 
