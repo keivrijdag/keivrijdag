@@ -13,8 +13,7 @@ Everything one needs to know about Giocomonday.
 
 Date|Topic
 ---|---
-2018-05-07|The effect of waterbody names on mitochondrial cAMP levels in flagellated microbenthos
-2018-05-14|[No Giacomonday, for now]
+2018-05-14|(extra) Approaches to Macroevolution: 3. General Variation and Origin, Overarching Issues, General Acknowledgements
 2018-05-21|The effect of Easter on Giacomondays (spoiler: none!)
 2018-05-28|The effect of typo's in email sent early in the morning on biological simulations running on the same computer
 2018-06-04|The amount of pre-emptive niche filling by absent species
@@ -32,6 +31,7 @@ Date|Topic
 2018-04-09|Practice of evolutionary medicine by Mesoamericans in Teotihuacan at March 14th 159 AD 
 2018-04-23|in silico modeling of perfect vacua
 2018-04-30|Evolutionary stable strategies for bachelor students in a game of heads or tails  
+2018-05-07|The effect of waterbody names on mitochondrial cAMP levels in flagellated microbenthos
 
 ## FAQ
 
