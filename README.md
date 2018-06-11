@@ -13,7 +13,7 @@ Everything one needs to know about Giocomonday.
 
 Date|Topic
 ---|---
-2018-06-11|Extra Giacomonday. Topic to be decided yet
+2018-06-11|Extra Giacomonday. The effect of having no topic on Giacomondays
 2018-06-18|Origin of life: a virgo? The effect of the zodiac on early replicator formation 
 2018-07-02|?
 2018-07-16|?
