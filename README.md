@@ -13,7 +13,6 @@ Everything one needs to know about Giocomonday.
 
 Date|Topic
 ---|---
-2018-06-11|Extra Giacomonday. The effect of having no topic on Giacomondays
 2018-06-18|Origin of life: a virgo? The effect of the zodiac on early replicator formation 
 2018-07-02|?
 2018-07-16|?
@@ -38,6 +37,7 @@ Date|Topic
 2018-05-21|The effect of Pentecost on Giacomondays (spoiler: none!)
 2018-05-28|The effect of typo's in email sent early in the morning on biological simulations running on the same computer
 2018-06-04|The amount of pre-emptive niche filling by absent species
+2018-06-11|Extra Giacomonday. The effect of having no topic on Giacomondays
 
 ## FAQ
 
