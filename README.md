@@ -13,8 +13,8 @@ Everything one needs to know about Giocomonday.
 
 Date|Topic
 ---|---
-2018-07-02|The effect of eddies in vacua in Italian national reserves
-2018-07-16|?
+2018-07-02|The effect of eddies in vacua in Italian natural reserves
+2018-07-16|The absence of host-parasite interactions in My Little Pony, excluding gray area cases 
 2018-07-30|?
 2018-08-13|?
 
