@@ -14,7 +14,7 @@ Everything one needs to know about Giocomonday.
 Date|Topic
 ---|---
 2018-07-16|The absence of host-parasite interactions in My Little Pony, excluding gray area cases 
-2018-07-30|?
+2018-07-30|Host-parasite relations in hosts confined to the Artic and parasites confined to the Antarctic region 
 2018-08-13|?
 
 ## Discussed
@@ -110,5 +110,5 @@ one persevering in being social, and Giacomonday was put in the freezer.
 
 The TECE group has grown, with some new social members being added. Giacomonday
 was revived, with Giacomono being absent (he does get the invitation 
-email, though). The Giacomonday got a more serious character, by 
+email, though). The Giacomonday got an even more serious character, by 
 adding a scientific topic to be informally discussed.
