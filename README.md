@@ -13,7 +13,6 @@ Everything one needs to know about Giocomonday.
 
 Date|Topic
 ---|---
-2018-07-16|The absence of host-parasite interactions in My Little Pony, excluding gray area cases 
 2018-07-30|Host-parasite relations in hosts confined to the Artic and parasites confined to the Antarctic region 
 2018-08-13|?
 
@@ -38,6 +37,7 @@ Date|Topic
 2018-06-11|Extra Giacomonday. The effect of having no topic on Giacomondays
 2018-06-18|Origin of life: a virgo? The effect of the zodiac on early replicator formation 
 2018-07-02|The effect of eddies in vacua in Italian natural reserves
+2018-07-16|The absence of host-parasite interactions in My Little Pony, excluding gray area cases 
 
 ## FAQ
 
