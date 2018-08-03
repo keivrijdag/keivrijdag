@@ -14,7 +14,7 @@ Everything one needs to know about Giocomonday.
 Date|Topic
 ---|---
 2018-07-30|Host-parasite relations in hosts confined to the Artic and parasites confined to the Antarctic region 
-2018-08-13|?
+2018-08-13|Survival of the fittest? The effect Charles Darwin had on the Chinese Ming dynasty
 
 ## Discussed
 
