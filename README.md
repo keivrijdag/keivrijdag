@@ -13,8 +13,9 @@ Everything one needs to know about Giocomonday.
 
 Date|Topic
 ---|---
-2018-08-13|Survival of the fittest? The effect Charles Darwin had on the Chinese Ming dynasty
-2018-08-27|Sexual ornaments producing electromagnetic radiation of wavelengths between 41 and 43 femtometers
+2018-08-13|The effect of time travelling haplorhines on yesterday's unobservable behavioral dynamics
+2018-08-27|Survival of the fittest? The effect Charles Darwin had on the Chinese Ming dynasty
+2018-09-10|Sexual ornaments producing electromagnetic radiation of wavelengths between 41 and 43 femtometers
 
 ## Discussed
 
