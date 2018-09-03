@@ -13,8 +13,8 @@ Everything one needs to know about Giocomonday.
 
 Date|Topic
 ---|---
-2018-08-27|Survival of the fittest? The effect Charles Darwin had on the Chinese Ming dynasty
 2018-09-10|Sexual ornaments producing electromagnetic radiation of wavelengths between 41 and 43 femtometers
+2018-09-24|[no topic yet, feel encouraged to submit one]
 
 ## Discussed
 
@@ -40,6 +40,7 @@ Date|Topic
 2018-07-16|The absence of host-parasite interactions in My Little Pony, excluding gray area cases 
 2018-07-30|Host-parasite relations in hosts confined to the Artic and parasites confined to the Antarctic region 
 2018-08-13|The effect of time travelling haplorhines on yesterday's unobservable behavioral dynamics
+2018-08-27|Survival of the fittest? The effect Charles Darwin had on the Chinese Ming dynasty
 
 ## FAQ
 
