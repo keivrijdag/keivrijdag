@@ -14,7 +14,8 @@ Everything one needs to know about Giocomonday.
 Date|Topic
 ---|---
 2018-09-10|Sexual ornaments producing electromagnetic radiation of wavelengths between 41 and 43 femtometers
-2018-09-24|[no topic yet, feel encouraged to submit one]
+2018-09-24|Impacts of the Cretaceous Terrestrial Revolution and KPg extinction on homo sapiens diversification
+2018-10-08|[no topic yet, feel encouraged to submit one]
 
 ## Discussed
 
