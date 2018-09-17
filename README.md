@@ -13,7 +13,7 @@ Everything one needs to know about Giocomonday.
 
 Date|Topic
 ---|---
-2018-09-10|Sexual ornaments producing electromagnetic radiation of wavelengths between 41 and 43 femtometers
+2018-09-17|(at 21:00!) The effect of a one-hour daytime shift on observable circadian behavior of Tardigrada in liquid helium 
 2018-09-24|Impacts of the Cretaceous Terrestrial Revolution and KPg extinction on homo sapiens diversification
 2018-10-08|[no topic yet, feel encouraged to submit one]
 
@@ -42,6 +42,7 @@ Date|Topic
 2018-07-30|Host-parasite relations in hosts confined to the Artic and parasites confined to the Antarctic region 
 2018-08-13|The effect of time travelling haplorhines on yesterday's unobservable behavioral dynamics
 2018-08-27|Survival of the fittest? The effect Charles Darwin had on the Chinese Ming dynasty
+2018-09-10|Sexual ornaments producing electromagnetic radiation of wavelengths between 41 and 43 femtometers
 
 ## FAQ
 
