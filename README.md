@@ -15,6 +15,7 @@ Date|Topic
 ---|---
 2018-09-24|Adaptive radiation in Uranium-235
 2018-10-08|[no topic yet, feel encouraged to submit one]
+2018-10-22|[no topic yet, feel encouraged to submit one]
 
 ## Discussed
 
