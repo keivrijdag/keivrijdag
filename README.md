@@ -13,8 +13,7 @@ Everything one needs to know about Giocomonday.
 
 Date|Topic
 ---|---
-2018-10-01|The effect of Heliconius migrational routes on biodiversity patterns in Mare Imbrium 
-2018-10-08|[no topic yet, feel encouraged to submit one]
+2018-10-08|The epidemiological effects of vaccinating viruses against themselves 
 2018-10-15|?
 2018-10-22|[no topic yet, feel encouraged to submit one]
 
@@ -46,6 +45,7 @@ Date|Topic
 2018-09-10|Sexual ornaments producing electromagnetic radiation of wavelengths between 41 and 43 femtometers
 2018-09-17|(at 21:00!) The effect of a one-hour daytime shift on observable circadian behavior of Tardigrada in liquid helium 
 2018-09-24|Adaptive radiation in Uranium-235
+2018-10-01|The effect of Heliconius migrational routes on biodiversity patterns in Mare Imbrium 
 
 ## FAQ
 
