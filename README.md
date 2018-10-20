@@ -13,12 +13,11 @@ Everything one needs to know about Giocomonday.
 
 Date|Topic
 ---|---
-2018-10-15|Evidence for the sexy son hypothesis in the European pied flycatcher (Ficedula hypoleuca) from observational field studies of virgin females 
 2018-10-22|The use of Bayesian statistics on deterministic, non-chaotic and trivally simple systems 
 2018-11-05|Paper-Rock-Scissors dynamics in collections of papers, rocks and scissors
 2018-11-19|Post-mortem game theory strategies
 2018-12-03|What can agriculture learn from the low FST values in Cybertronian species?  
-2018-12-17|Successes in reducing road kills in the Caspian tiger (Panthera tigris tigris) in the last decade
+2018-12-17|Successes in stabilizing road kills in the Caspian tiger (Panthera tigris tigris) in the last decade
 2018-12-31|No Giacomonday
 2018-01-14|[no topic yet, feel encouraged to submit one]
 
@@ -52,6 +51,7 @@ Date|Topic
 2018-09-24|Adaptive radiation in Uranium-235
 2018-10-01|The effect of Heliconius migrational routes on biodiversity patterns in Mare Imbrium 
 2018-10-08|The epidemiological effects of vaccinating viruses against themselves 
+2018-10-15|Evidence for the sexy son hypothesis in the European pied flycatcher (Ficedula hypoleuca) from observational field studies of virgin females 
 
 ## FAQ
 
