@@ -13,7 +13,7 @@ Everything one needs to know about Giocomonday.
 
 Date|Topic
 ---|---
-2018-10-22|The delusion of the Division of Labor in ants: no evidence of parlementary or other adminstrative divisions in ants   
+2018-10-22|The delusion of the Division of Labor in ants: no evidence of parlementary or other adminstrative divisions  
 2018-11-05|Paper-Rock-Scissors dynamics in collections of papers, rocks and scissors
 2018-11-19|Post-mortem game theory strategies
 2018-12-03|What can agriculture learn from the low FST values in Cybertronian species?  
