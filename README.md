@@ -13,9 +13,8 @@ Everything one needs to know about Giocomonday.
 
 Date|Topic
 ---|---
-2018-01-14|Paper-Rock-Scissors dynamics in collections of papers, rocks and scissors
-2018-01-21|[Extra Giocomonday) Correction between narcissism and throat patch shape (e.g. not in the shape of a penis) in tayra (Eira barbara)
-2018-01-28|[no topic yet, feel encouraged to submit one]
+2019-01-21|[Extra Giocomonday) Correlation between narcissism and throat patch shape (e.g. not in the shape of a penis) in tayra (Eira barbara)
+2019-01-28|[no topic yet, feel encouraged to submit one]
 
 ## Discussed
 
@@ -54,6 +53,7 @@ Date|Topic
 2018-12-03|What can agriculture learn from the low FST values in Cybertronian species?  
 2018-12-17|Successes in stabilizing road kills in the Caspian tiger (Panthera tigris tigris) in the last decade
 2018-12-31|No Giacomonday
+2019-01-14|Paper-Rock-Scissors dynamics in collections of papers, rocks and scissors
 
 ## FAQ
 
