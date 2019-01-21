@@ -14,7 +14,8 @@ Everything one needs to know about Giocomonday.
 Date|Topic
 ---|---
 2019-01-21|[Extra Giocomonday) Correlation between narcissism and throat patch shape (e.g. not in the shape of a penis) in tayra (Eira barbara)
-2019-01-28|[no topic yet, feel encouraged to submit one]
+2019-01-28|Ninkasi, Gambrinus, Giacomo: stopping the trend?
+2019-02-11|[no topic yet, feel encouraged to submit one]
 
 ## Discussed
 
@@ -28,7 +29,7 @@ Date|Topic
 2018-03-26|The effect of alternative universes on Darwinian sexual selection on costless and honest traits on species in those universes
 2018-04-09|Practice of evolutionary medicine by Mesoamericans in Teotihuacan at March 14th 159 AD 
 2018-04-23|in silico modeling of perfect vacua
-2018-04-30|Evolutionary stable strategies for bachelor students in a game of heads or tails  
+2018-04-30|Evolutionary stable strategies for bachelor students in a game of heads or tails
 2018-05-07|The effect of waterbody names on mitochondrial cAMP levels in flagellated microbenthos
 2018-05-14|(extra) Approaches to Macroevolution: 3. General Variation and Origin, Overarching Issues, General Acknowledgements
 2018-05-21|The effect of Pentecost on Giacomondays (spoiler: none!)
