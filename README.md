@@ -2,7 +2,7 @@
 
 ![Giacomo](giacomo.png)
 
-Everything one needs to know about Giocomonday.
+Everything one needs to know about Giacomonday.
 
  * What: Giacomonday: informal scientific discussion, see [https://github.com/richelbilderbeek/giacomonday](https://github.com/richelbilderbeek/giacomonday)
  * Where: De Minnaar, Kleine Rozenstraat 64, [www.deminnaar.nl](http://www.deminnaar.nl)
@@ -56,7 +56,7 @@ Date|Topic
 2018-12-17|Successes in stabilizing road kills in the Caspian tiger (Panthera tigris tigris) in the last decade
 2018-12-31|No Giacomonday
 2019-01-14|Paper-Rock-Scissors dynamics in collections of papers, rocks and scissors
-2019-01-21|[Extra Giocomonday) Correlation between narcissism and throat patch shape (e.g. not in the shape of a penis) in tayra (Eira barbara)
+2019-01-21|[Extra Giacomonday) Correlation between narcissism and throat patch shape (e.g. not in the shape of a penis) in tayra (Eira barbara)
 2019-01-28|Pokemon: ideal system to test diversification models on?
 
 ## FAQ
