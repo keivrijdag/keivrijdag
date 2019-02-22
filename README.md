@@ -13,7 +13,7 @@ Everything one needs to know about Giacomonday.
 
 Date|Topic
 ---|---
-2019-02-25|The Giacomonday topic with the highest impact factor judged by altmetrics
+2019-02-25|(from 17:00!)The Giacomonday topic with the highest impact factor judged by altmetrics
 2019-03-11|[no topic yet, feel encouraged to submit one]
 2019-03-25|[no topic yet, feel encouraged to submit one]
 
