@@ -13,12 +13,19 @@ Everything one needs to know about Giacomonday.
 
 Date|Topic
 ---|---
-2019-02-11|The use of island biogeography in explaining low species diversity on the moon
 2019-02-25|The Giacomonday topic with the highest impact factor judged by altmetrics
 2019-03-11|[no topic yet, feel encouraged to submit one]
 2019-03-25|[no topic yet, feel encouraged to submit one]
 
 ## Discussed
+
+### Third Era, second year
+
+Date|Topic
+---|---
+...|...
+
+### Third Era, first year
 
 Date|Topic
 ---|---
@@ -58,6 +65,7 @@ Date|Topic
 2019-01-14|Paper-Rock-Scissors dynamics in collections of papers, rocks and scissors
 2019-01-21|[Extra Giacomonday) Correlation between narcissism and throat patch shape (e.g. not in the shape of a penis) in tayra (Eira barbara)
 2019-01-28|Pokemon: ideal system to test diversification models on?
+2019-02-11|The use of island biogeography in explaining low species diversity on the moon
 
 ## FAQ
 
