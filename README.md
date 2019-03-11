@@ -13,9 +13,12 @@ Everything one needs to know about Giacomonday.
 
 Date|Topic
 ---|---
-2019-02-25|(from 17:00!)The Giacomonday topic with the highest impact factor judged by altmetrics
-2019-03-11|[no topic yet, feel encouraged to submit one]
+2019-03-11|The use of introgression to prove Foraminifera and Ovis aries are non-sister species
 2019-03-25|[no topic yet, feel encouraged to submit one]
+2019-04-08|[no topic yet, feel encouraged to submit one]
+2019-04-22|[no topic yet, feel encouraged to submit one]
+2019-05-06|(last Giacomonday) [no topic yet, feel encouraged to submit one]
+2019-05-24|(first KeiVrijdag)
 
 ## Discussed
 
@@ -23,7 +26,7 @@ Date|Topic
 
 Date|Topic
 ---|---
-...|...
+2019-02-25|(from 17:00!)The Giacomonday topic with the highest impact factor judged by altmetrics
 
 ### Third Era, first year
 
@@ -140,3 +143,6 @@ The TECE group has grown, with some new social members being added. Giacomonday
 was revived, with Giacomono being absent (he does get the invitation 
 email, though). The Giacomonday got an even more serious character, by 
 adding a scientific topic to be informally discussed.
+
+After 1.25 year of Giacomondays, this event moved to a Friday, which
+caused the event to renamed to a KeiVrijdag.
