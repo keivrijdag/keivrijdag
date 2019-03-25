@@ -2,21 +2,25 @@
 
 ![Giacomo](giacomo.png)
 
-Everything one needs to know about Giacomonday.
+Everything one needs to know about Giacomonday [1].
 
- * What: Giacomonday: informal scientific discussion, see [https://github.com/richelbilderbeek/giacomonday](https://github.com/richelbilderbeek/giacomonday)
- * Where: De Minnaar, Kleine Rozenstraat 64, [www.deminnaar.nl](http://www.deminnaar.nl)
+ * What: Giacomonday: informal scientific discussion, 
+   see [https://github.com/richelbilderbeek/giacomonday](https://github.com/richelbilderbeek/giacomonday) [2]
+ * Where: De Minnaar, Kleine Rozenstraat 64, [www.deminnaar.nl](http://www.deminnaar.nl) [3]
  * When: see dates below, at each date from 20:00 onwards
  * Topic: see below
+
+[1] After May 7th, Giacomonday will be renamed to Keivrijdag
+[2] After May 7th: [https://github.com/richelbilderbeek/keivrijdag](https://github.com/richelbilderbeek/keivrijdag)
+[3] Pubs vary at Keivrijdag
 
 ## Future discussions
 
 Date|Topic
 ---|---
-2019-03-11|The use of introgression to prove Foraminifera and Ovis aries are non-sister species
-2019-03-25|[no topic yet, feel encouraged to submit one]
-2019-04-08|[no topic yet, feel encouraged to submit one]
-2019-04-22|[no topic yet, feel encouraged to submit one]
+2019-03-25|Emergent properties of multiple adjacent vacua
+2019-04-08|Does the absence of division of labor in Higgs bosons prove they aren't social insects?
+2019-04-22|Dominance hierarchies in photons
 2019-05-06|(last Giacomonday) [no topic yet, feel encouraged to submit one]
 2019-05-24|(first KeiVrijdag)
 
@@ -27,6 +31,7 @@ Date|Topic
 Date|Topic
 ---|---
 2019-02-25|(from 17:00!)The Giacomonday topic with the highest impact factor judged by altmetrics
+2019-03-11|The use of introgression to prove Foraminifera and Ovis aries are non-sister species
 
 ### Third Era, first year
 
