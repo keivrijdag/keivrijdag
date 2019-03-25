@@ -10,6 +10,8 @@ Everything one needs to know about Giacomonday [1].
  * When: see dates below, at each date from 20:00 onwards
  * Topic: see below
 
+#### Notes
+
  * [1] After May 7th, Giacomonday will be renamed to Keivrijdag
  * [2] After May 7th: [https://github.com/richelbilderbeek/keivrijdag](https://github.com/richelbilderbeek/keivrijdag)
  * [3] Pubs vary at Keivrijdag
