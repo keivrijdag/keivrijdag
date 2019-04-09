@@ -27,6 +27,7 @@ Date|Topic
 Date|Topic|Location
 ---|---|---
 2019-05-24|(first KeiVrijdag)|Bij Kimmie (formerly: Aan De Amstel), Veemarktstraat 101 (close to Oosterpoort)
+2019-05-24|[no topic yet, feel encouraged to submit one]|Merleyn, Meeuwerderweg 121
 
 ## Discussed
 
@@ -154,5 +155,5 @@ was revived, with Giacomono being absent (he does get the invitation
 email, though). The Giacomonday got an even more serious character, by 
 adding a scientific topic to be informally discussed.
 
-After 1.25 year of Giacomondays, this event moved to a Friday, which
-caused the event to renamed to a KeiVrijdag.
+After 1.25 year of Giacomondays, this event moved to a Friday and was 
+renamed to 'Keivrijdag'.
