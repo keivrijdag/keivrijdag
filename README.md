@@ -20,14 +20,14 @@ Everything one needs to know about Giacomonday [1].
 
 Date|Topic
 ---|---
-2019-04-08|Does the absence of division of labor in Higgs bosons prove they aren't social insects?
-2019-04-22|Dominance hierarchies in photons
-2019-05-06|(last Giacomonday) [no topic yet, feel encouraged to submit one]
+2019-04-22|The effect of Easter on Giacomondays (spoiler: none!)
+2019-05-06|(last Giacomonday) Dominance hierarchies in photons
 
 Date|Topic|Location
 ---|---|---
-2019-05-24|(first KeiVrijdag)|Bij Kimmie (formerly: Aan De Amstel), Veemarktstraat 101 (close to Oosterpoort)
-2019-05-24|[no topic yet, feel encouraged to submit one]|Merleyn, Meeuwerderweg 121
+2019-05-24|(first KeiVrijdag)  |Bij Kimmie (formerly: Aan De Amstel), Veemarktstraat 101 (close to Oosterpoort)
+2019-06-07|[no topic yet, feel encouraged to submit one]|?
+2019-06-21|[no topic yet, feel encouraged to submit one]|Merleyn, Meeuwerderweg 121
 
 ## Discussed
 
@@ -38,6 +38,7 @@ Date|Topic
 2019-02-25|(from 17:00!)The Giacomonday topic with the highest impact factor judged by altmetrics
 2019-03-11|The use of introgression to prove Foraminifera and Ovis aries are non-sister species
 2019-03-25|Emergent properties of multiple adjacent vacua
+2019-04-08|Does the absence of division of labor in Higgs bosons prove they aren't social insects?
 
 ### Third Era, first year
 
