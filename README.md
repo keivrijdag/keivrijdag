@@ -1,26 +1,18 @@
-# Giacomonday
+# Keivrijdag
 
-![Giacomo](giacomo.png)
+![Keivrijdag](Keivrijdag.png)
 
-Everything one needs to know about Giacomonday [1].
+Everything one needs to know about the Keivrijdag.
 
- * What: Giacomonday: informal scientific discussion, 
-   see [https://github.com/richelbilderbeek/giacomonday](https://github.com/richelbilderbeek/giacomonday) [2]
- * Where: De Minnaar, Kleine Rozenstraat 64, [www.deminnaar.nl](http://www.deminnaar.nl) [3]
+ * What: Keivrijdag: informal scientific discussion, 
+   see [https://github.com/richelbilderbeek/keivrijdag](https://github.com/richelbilderbeek/keivrijdag)
+ * Where: Locaties varies, 
  * When: see dates below, at each date from 20:00 onwards
  * Topic: see below
-
-#### Notes
-
- * [1] After May 7th, Giacomonday will be renamed to Keivrijdag
- * [2] After May 7th: [https://github.com/richelbilderbeek/keivrijdag](https://github.com/richelbilderbeek/keivrijdag)
- * [3] Pubs vary at Keivrijdag
 
 ## Future discussions
 
 Date|Topic
----|---
-2019-05-06|(last Giacomonday) Dominance hierarchies in photons
 
 Date|Topic|Location
 ---|---|---
@@ -29,6 +21,8 @@ Date|Topic|Location
 2019-06-21|Can we exclude genetics in explaining altostratus behavior? Can the absence of emergent properties in its flocking behavior be explained completely by phenotypic plasticity?|Merleyn, Meeuwerderweg 121
 
 ## Discussed
+
+...
 
 ### Third Era, second year
 
@@ -39,6 +33,7 @@ Date|Topic
 2019-03-25|Emergent properties of multiple adjacent vacua
 2019-04-08|Does the absence of division of labor in Higgs bosons prove they aren't social insects?
 2019-04-22|The effect of Easter on Giacomondays (spoiler: none!)
+2019-05-06|(last Giacomonday) Dominance hierarchies in photons
 
 ### Third Era, first year
 
