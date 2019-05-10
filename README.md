@@ -1,6 +1,6 @@
 # Keivrijdag
 
-![Keivrijdag](Keivrijdag.png)
+![Keivrijdag](pics/keivrijdag.png)
 
 Everything one needs to know about the Keivrijdag.
 
@@ -110,24 +110,26 @@ view you as parasitically bathing in our hard-earned
 wisdom. On the other hand, perhaps we should slow
 down on being serious all the time.
 
-### Who is the guy in the picture?
+### What is the picture?
 
-That, is Giacomo!
+It is a rock. 'Kei' is a Dutch word for rock.
 
 ### What is the Giacoconstant?
 
 The Giacoconstant, G, can be calculated as such:
 
-![Giacomonday constant](giacomonday_constant.png)
+![Giacomonday constant](pics/giacomonday_constant.png)
 
 The 'plus one' is to emphasize that we are always
 willing to read that one extra article.
 
-### Don't you think a Monday is a bad day to go to a pub?
+### Don't you think Friday is a bad day to go to a pub?
 
-Yes. Some of the wiser visitors of Giacomonday thus leave at 22:00.
+Yes. Some of the wiser visitors of Keivrijdag thus leave at 22:00.
 
 ## History
+
+The history of Keivrijdag started with the Giacomonday:
 
 ### First era: 2014-2015
 
@@ -152,4 +154,4 @@ email, though). The Giacomonday got an even more serious character, by
 adding a scientific topic to be informally discussed.
 
 After 1.25 year of Giacomondays, this event moved to a Friday and was 
-renamed to 'Keivrijdag'.
+renamed to 'Keivrijdag'. At the Keivrijdag, the pub location varies.
