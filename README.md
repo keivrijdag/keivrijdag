@@ -12,8 +12,6 @@ Everything one needs to know about the Keivrijdag.
 
 ## Future discussions
 
-Date|Topic
-
 Date|Topic|Location
 ---|---|---
 2019-05-24|(first KeiVrijdag) Allopatric speciation in Patrae (but not due to mountain formation)|Bij Kimmie (formerly: Aan De Amstel), Veemarktstraat 101 (close to Oosterpoort)
