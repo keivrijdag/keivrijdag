@@ -19,6 +19,12 @@ Date|Topic|Location
 2019-05-24|(first KeiVrijdag) Allopatric speciation in Patrae (but not due to mountain formation)|Bij Kimmie (formerly: Aan De Amstel), Veemarktstraat 101 (close to Oosterpoort)
 2019-06-07|[no topic yet, feel encouraged to submit one]|?
 2019-06-21|Can we exclude genetics in explaining altostratus behavior? Can the absence of emergent properties in its flocking behavior be explained completely by phenotypic plasticity?|Merleyn, Meeuwerderweg 121
+2019-07-05|[no topic yet, feel encouraged to submit one]|?
+2019-07-19|[no topic yet, feel encouraged to submit one]|?
+2019-08-02|[no topic yet, feel encouraged to submit one]|?
+2019-08-16|[no topic yet, feel encouraged to submit one]|?
+
+![](bij_kimmie.png)
 
 ## Discussed
 
