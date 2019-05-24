@@ -114,7 +114,12 @@ down on being serious all the time.
 
 ### What is the picture?
 
-It is a rock. 'Kei' is a Dutch word for rock.
+It is a rock. 
+
+To be precise, it is one of the two rocks
+at [Spectacle Rock](https://zelda.fandom.com/wiki/Spectacle_Rock).
+
+'Kei' is a Dutch word for rock.
 
 ### What is the Giacoconstant?
 
