@@ -1,5 +1,9 @@
 # Keivrijdag
 
+Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+---|---
+`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/Keivrijdag.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Keivrijdag)
+
 ![Keivrijdag](pics/keivrijdag.png)
 
 Everything one needs to know about the Keivrijdag.
@@ -67,7 +71,7 @@ Date|Topic
 2018-09-24|Adaptive radiation in Uranium-235
 2018-10-01|The effect of Heliconius migrational routes on biodiversity patterns in Mare Imbrium 
 2018-10-08|The epidemiological effects of vaccinating viruses against themselves 
-2018-10-15|Evidence for the sexy son hypothesis in the European pied flycatcher (Ficedula hypoleuca) from observational field studies of virgin females 
+2018-10-15|Evidence for the sexy son hypoKeivrijdag in the European pied flycatcher (Ficedula hypoleuca) from observational field studies of virgin females 
 2018-10-22|The use of Bayesian statistics on deterministic, non-chaotic and trivally simple systems 
 2018-11-05|The delusion of the Division of Labor in ants: no evidence of parlementary or other adminstrative divisions  
 2018-11-19|Post-mortem game theory strategies
