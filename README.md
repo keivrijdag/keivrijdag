@@ -88,10 +88,10 @@ Date|Topic
 
 ### At what time will the topic be discussed?
 
-Discussion starts at 20:00 sharp, until a 
+Discussion starts at 20:00 sharp, until 
 consensus is reached. Sometimes the discussion
 flares up again later on the evening, but this
-is not encouraged.
+is discouraged.
 
 ### I know little about the topic, can I join anyways?
 
@@ -116,6 +116,24 @@ to you, but we may be hindered of the idea that we
 view you as parasitically bathing in our hard-earned 
 wisdom. On the other hand, perhaps we should slow
 down on being serious all the time.
+
+### Why is it called Keivrijdag?
+
+'kei' is Dutch for 'very' and 'vrijdag' is Dutch for Friday.
+Additionally, 'vrij' is Dutch for 'free' as used in 'freedom' (among others),
+so it is a very free Friday! 
+
+### Is the Keivrijdag related to the KEI week?
+
+No.
+
+The 'kei' in 'kijvrijdag' is Dutch for 'very', 
+where KEI in KEI week is an abbreviation.
+
+There is a 50% chance, however, that in a KEI week's Friday, 
+that that day is also a Keivrijdag.
+Additionally, there is an approximately 2% chance, 
+that when it is Keivrijdag, it is also KEI week.
 
 ### What is the picture?
 
