@@ -18,9 +18,7 @@ Everything one needs to know about the Keivrijdag.
 
 Date|Topic|Location
 ---|---|---
-2019-06-21|Can we exclude genetics in explaining altostratus behavior? Can the absence of emergent properties in its flocking behavior be explained completely by phenotypic plasticity?|[Merleyn, Meeuwerderweg 121](https://www.openstreetmap.org/node/2748526728#map=19/53.21060/6.57925)
-2019-07-05|Allopatric speciation in Patrae (but not due to mountain formation)|Bij Kimmie (formerly: Aan De Amstel), Veemarktstraat 101 (close to Oosterpoort)
-2019-07-19|[no topic yet, feel encouraged to submit one]|?
+2019-07-19|The use of English and French Pokemon in measuring name-dependent speciation rates|[Kroeg van Klaas](http://www.kroegvanklaas.nl), [Oosterweg 26](https://www.openstreetmap.org/node/2748530894)
 2019-08-02|[no topic yet, feel encouraged to submit one]|?
 2019-08-16|[no topic yet, feel encouraged to submit one]|?
 
@@ -32,6 +30,8 @@ Date|Topic|Location
 ---|---|---
 2019-05-24|(first KeiVrijdag) Applications of the DAISIE model on the sub-oceanic island of Flevoland|[De Toeter](https://www.cafedetoeter.nl/), Turfsingel 6
 2019-06-07|[a forgotten Keivrijdag]|[no suggestion] 
+2019-06-21|Can we exclude genetics in explaining altostratus behavior? Can the absence of emergent properties in its flocking behavior be explained completely by phenotypic plasticity?|[Merleyn, Meeuwerderweg 121](https://www.openstreetmap.org/node/2748526728#map=19/53.21060/6.57925)
+2019-07-05|Allopatric speciation in Patrae (but not due to mountain formation)|Bij Kimmie (formerly: Aan De Amstel), Veemarktstraat 101 (close to Oosterpoort)
 
 Date|Topic
 ---|---
