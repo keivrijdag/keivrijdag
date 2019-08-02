@@ -18,7 +18,7 @@ Everything one needs to know about the Keivrijdag.
 
 Date|Topic|Location
 ---|---|---
-2019-08-02|[no topic yet, feel encouraged to submit one]|Pintelier
+2019-08-02|Evidence from island biogeography models for Flevoland being a volcanic island|[De Pintelier](https://www.depintelier.nl), [Kleine Kromme Elleboog 9](https://www.openstreetmap.org/node/2752227627) 
 2019-08-16|[no topic yet, feel encouraged to submit one]|?
 2019-08-30|Phylogenetic speciation models that use pi in their likelihood equations|Die 2, Mauritsdwarsstraat 29, [https://www.openstreetmap.org/node/2748531453](https://www.openstreetmap.org/node/2748531453)
 2019-09-13|[no topic yet, feel encouraged to submit one]|?
