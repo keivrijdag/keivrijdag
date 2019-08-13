@@ -18,9 +18,10 @@ Everything one needs to know about the Keivrijdag.
 
 Date|Topic|Location
 ---|---|---
-2019-08-16|[no topic yet, feel encouraged to submit one]|De Kachel, Schuitendiep 6b
+2019-08-16|Biological relevance of speciation models in which time is diversity-dependent|De Kachel, Schuitendiep 6b
 2019-08-30|Phylogenetic speciation models that use pi in their likelihood equations|Die 2, Mauritsdwarsstraat 29, [https://www.openstreetmap.org/node/2748531453](https://www.openstreetmap.org/node/2748531453)
 2019-09-13|[no topic yet, feel encouraged to submit one]|?
+2019-09-27|[no topic yet, feel encouraged to submit one]|?
 
 ## Discussed
 
