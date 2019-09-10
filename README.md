@@ -18,9 +18,7 @@ Everything one needs to know about the Keivrijdag.
 
 Date|Topic|Location
 ---|---|---
-2019-08-16|Biological relevance of speciation models in which time is diversity-dependent|Noorderzon, Kruissingel
-2019-08-30|Phylogenetic speciation models that use pi in their likelihood equations|Die 2, Mauritsdwarsstraat 29, [https://www.openstreetmap.org/node/2748531453](https://www.openstreetmap.org/node/2748531453)
-2019-09-13|[no topic yet, feel encouraged to submit one]|?De Kachel, Schuitendiep 6b
+2019-09-13|Biological relevance of protracted diversity-and-time-and-trait-dependent multiple-birth speciation models with imaginary parameters|De Minnaar, Kleine Rozenstraat 64, [https://deminnaar.nl](https://deminnaar.nl)
 2019-09-27|[no topic yet, feel encouraged to submit one]|?
 
 ## Discussed
@@ -35,6 +33,8 @@ Date|Topic|Location
 2019-07-05|Allopatric speciation in Patrae (but not due to mountain formation)|Bij Kimmie (formerly: Aan De Amstel), Veemarktstraat 101 (close to Oosterpoort)
 2019-07-19|The use of English and French Pokemon in measuring name-dependent speciation rates|[Kroeg van Klaas](http://www.kroegvanklaas.nl), [Oosterweg 26](https://www.openstreetmap.org/node/2748530894)
 2019-08-02|Evidence from island biogeography models for Flevoland being a volcanic island|[De Pintelier](https://www.depintelier.nl), [Kleine Kromme Elleboog 9](https://www.openstreetmap.org/node/2752227627) 
+2019-08-16|Biological relevance of speciation models in which time is diversity-dependent|Noorderzon, Kruissingel
+2019-08-30|Phylogenetic speciation models that use pi in their likelihood equations|Die 2, Mauritsdwarsstraat 29, [https://www.openstreetmap.org/node/2748531453](https://www.openstreetmap.org/node/2748531453)
 
 Date|Topic
 ---|---
