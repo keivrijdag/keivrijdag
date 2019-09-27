@@ -18,7 +18,8 @@ Everything one needs to know about the Keivrijdag.
 
 Date|Topic|Location
 ---|---|---
-2019-09-27|Biological relevance of divisions by zero|Mr Mofongo's
+2019-09-27|Biological relevance of divisions by zero|Mr Mofongo's, Oude Boteringestraat 26
+2019-10-11|?|?
 
 ## Discussed
 
