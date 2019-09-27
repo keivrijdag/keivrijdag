@@ -22,6 +22,9 @@ Date|Topic|Location
 2019-10-11|The reaction of flogs to valkan drones|?
 2019-10-25|the effect of biodifurstetie of difrend kinds of islands on the evelution on islands|?
 2019-11-08|The many good reasons to classify microplastics as sessile bacteria without DNA|?
+2019-11-22|Effects on biodiversity when painting black holes orange|?
+2019-12-06|.|.
+2019-12-20|.|.
 
 ## Discussed
 
