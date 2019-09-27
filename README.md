@@ -19,7 +19,9 @@ Everything one needs to know about the Keivrijdag.
 Date|Topic|Location
 ---|---|---
 2019-09-27|Biological relevance of divisions by zero|Mr Mofongo's, Oude Boteringestraat 26
-2019-10-11|?|?
+2019-10-11|The reaction of flogs to valkan drones|?
+2019-10-25|the effect of biodifurstetie of difrend kinds of islands on the evelution on islands|?
+2019-11-08|The many good reasons to classify microplastics as sessile bacteria without DNA|?
 
 ## Discussed
 
