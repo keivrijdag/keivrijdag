@@ -18,10 +18,10 @@ Everything one needs to know about the Keivrijdag.
 
 Date|Topic|Location
 ---|---|---
-2019-09-27|Biological relevance of divisions by zero|Mr Mofongo's, Oude Boteringestraat 26
-2019-10-11|The reaction of flogs to valkan drones|?
-2019-10-25|the effect of biodifurstetie of difrend kinds of islands on the evelution on islands|?
-2019-11-08|The many good reasons to classify microplastics as sessile bacteria without DNA|?
+2019-10-11|The reaction of flogs to valkan drones|De Bres, Grachtstraat 71
+2019-10-25|the effect of biodifurstetie of difrend kinds of islands on the evelution on islands|Sportsbar, Blauwborgje 16
+2019-11-01|[Extra Keivrijdag]|De Prins, Zwanestraat 3
+2019-11-08|The many good reasons to classify microplastics as sessile bacteria without DNA|De Sleutel, Noorderhaven 72
 2019-11-22|Effects on biodiversity when painting black holes orange|?
 2019-12-06|.|.
 2019-12-20|.|.
@@ -41,6 +41,7 @@ Date|Topic|Location
 2019-08-16|Biological relevance of speciation models in which time is diversity-dependent|Noorderzon, Kruissingel
 2019-08-30|Phylogenetic speciation models that use pi in their likelihood equations|Die 2, Mauritsdwarsstraat 29, [https://www.openstreetmap.org/node/2748531453](https://www.openstreetmap.org/node/2748531453)
 2019-09-13|Biological relevance of protracted diversity-and-time-and-trait-dependent multiple-birth speciation models with imaginary parameters|De Minnaar, Kleine Rozenstraat 64, [https://deminnaar.nl](https://deminnaar.nl)
+2019-09-27|Biological relevance of divisions by zero|Mr Mofongo's, Oude Boteringestraat 26
 
 Date|Topic
 ---|---
