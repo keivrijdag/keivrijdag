@@ -18,7 +18,7 @@ Everything one needs to know about the Keivrijdag.
 
 Date      |Topic                                                                          |Location
 ----------|-------------------------------------------------------------------------------|--------------
-2019-11-01|[Extra Keivrijdag] The evolutionary consequences of naming a sterilized pets after a phylogenetic inference model|De Minnaar, Kleine Rozenstraat 64, [https://deminnaar.nl](https://deminnaar.nl) 
+2019-11-01|[Extra Keivrijdag] The evolutionary consequences of naming a sterilized pets after a phylogenetic inference model|Giorgio's place
 2019-11-08|The many good reasons to classify microplastics as sessile bacteria without DNA|De Sleutel, Noorderhaven 72
 2019-11-22|Effects on biodiversity when painting black holes orange                       |De Prins, Zwanestraat 3
 2019-12-06|.|.
