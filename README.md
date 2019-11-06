@@ -1,4 +1,4 @@
-# Keivrijdag
+# Keivrijdag/Creagfriday
 
 Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 ---|---
@@ -6,9 +6,9 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 
 ![Keivrijdag](pics/keivrijdag.png)
 
-Everything one needs to know about the Keivrijdag.
+Everything one needs to know about the Keivrijdag/Creagfriday.
 
- * What: Keivrijdag: informal scientific discussion, 
+ * What: Keivrijdag/Creagfriday: informal scientific discussion, 
    see [https://github.com/richelbilderbeek/keivrijdag](https://github.com/richelbilderbeek/keivrijdag)
  * Where: Locaties varies, 
  * When: see dates below, at each date from 20:00 onwards
@@ -16,12 +16,12 @@ Everything one needs to know about the Keivrijdag.
 
 ## Future discussions
 
-Date      |Topic                                                                          |Location
-----------|-------------------------------------------------------------------------------|--------------
-2019-11-08|The many good reasons to classify microplastics as sessile bacteria without DNA|De Prins, Zwanestraat 3
-2019-11-22|Effects on biodiversity when painting black holes orange                       |De Sleutel, Noorderhaven 72
-2019-12-06|.|.
-2019-12-20|.|.
+Date      |Topic                                                                          |Keivrijdag/Groningen location|Stirling/Creagfriday location
+----------|-------------------------------------------------------------------------------|-----------------------------|--------------------------------------------------------------
+2019-11-08|The many good reasons to classify microplastics as sessile bacteria without DNA|De Prins, Zwanestraat 3      |[not yet]
+2019-11-22|Effects on biodiversity when painting black holes orange                       |De Sleutel, Noorderhaven 72  |[The Curly Coo Bar, 51 Barnton St](http://www.curlycoobar.com)
+2019-12-06|.|.|.
+2019-12-20|.|.|.
 
 ## Discussed
 
@@ -127,11 +127,22 @@ view you as parasitically bathing in our hard-earned
 wisdom. On the other hand, perhaps we should slow
 down on being serious all the time.
 
+### What is it with that Keivrijdag/Creagfriday?
+
+The same event is organised in parallel in Groningen
+and Stirling. See the rich history of these events below. 
+
 ### Why is it called Keivrijdag?
 
 'kei' is Dutch for 'very' and 'vrijdag' is Dutch for Friday.
 Additionally, 'vrij' is Dutch for 'free' as used in 'freedom' (among others),
 so it is a very free Friday! 
+
+### Why is it called Creagfriday?
+
+'creag' is Scottish Gaelic for rock.
+The 'Kei' in Creagfriday's ancestral event 'Keivrijdag' is
+a Dutch word for 'rock'.
 
 ### Is the Keivrijdag related to the KEI week?
 
@@ -195,3 +206,7 @@ adding a scientific topic to be informally discussed.
 
 After 1.25 year of Giacomondays, this event moved to a Friday and was 
 renamed to 'Keivrijdag'. At the Keivrijdag, the pub location varies.
+
+At around November 2019, a Keivrijdag regular, Theo Pannetier,
+decided to enrich the Scottish culture in Stirling by organising
+a Keivrijdag there in parallel, where it will be called 'Creagfriday'.
