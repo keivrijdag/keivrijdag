@@ -116,7 +116,15 @@ that may potentially have good reasons not to read up.
 
 ### I want to contribute a topic
 
-Great! Send a Pull Request, Issue or email to @richelbilderbeek.
+Great! Send a Pull Request, post an Issue 
+or email to @richelbilderbeek or @TheoPannetier.
+
+This will open up the option to suggest a pub in
+Groningen, Stirling or both. You are encouraged to do so :+1:
+
+### I only want to suggest a pub!
+
+Bad luck! You need to suggest a topic :rainbow: 
 
 ### I only want to join for the gezelligheid. Is that OK?
 
