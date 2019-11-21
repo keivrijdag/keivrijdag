@@ -3,7 +3,10 @@ dist: bionic
 
 install:
   # Check dead links
-  - sudo apt-get install -qq npm
+  - sudo apt install -qq libssl1.0-dev
+  - sudo apt install -qq nodejs-dev
+  - sudo apt install -qq node-gyp
+  - sudo apt install -qq npm
   - npm config set strict-ssl false
   - sudo npm install -g markdown-link-check
 
