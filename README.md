@@ -1,7 +1,7 @@
 # Keivrijdag/Creagfriday
 
-Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
----|---
+Branch  |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+--------|-----------------------------------------------------------------------------------------------------------------------------------------
 `master`|[![Build Status](https://travis-ci.org/richelbilderbeek/Keivrijdag.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Keivrijdag)
 
 ![Keivrijdag](pics/keivrijdag.png)
@@ -16,10 +16,10 @@ Everything one needs to know about the Keivrijdag/Creagfriday.
 
 ## Future discussions
 
-Date      |Topic                                                                          |Keivrijdag/Groningen location|Stirling/Creagfriday location
-----------|-------------------------------------------------------------------------------|-----------------------------|--------------------------------------------------------------
-2019-11-22|Effects on biodiversity when painting black holes orange                       |De Sleutel, Noorderhaven 72  |[not yet]
-2019-12-06|Phenotypic plasticity in unobservable organisms                                |.                            |[The Curly Coo Bar, 51 Barnton St](http://www.curlycoobar.com)
+Date      |Topic                                                                          |Keivrijdag/Groningen location                           |Stirling/Creagfriday location
+----------|-------------------------------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------------
+2019-11-22|Effects on biodiversity when painting black holes orange                       |[De Sleutel](http://cafedesleutel.nl), Noorderhaven 72  |[not yet]
+2019-12-06|Phenotypic plasticity in unobservable organisms                                |.                                                       |[The Curly Coo Bar, 51 Barnton St](http://www.curlycoobar.com)
 2019-12-20|.|.|.
 
 ## Discussed
