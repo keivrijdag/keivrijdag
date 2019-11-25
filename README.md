@@ -10,7 +10,7 @@ Everything one needs to know about the Keivrijdag/Creagfriday.
 
  * What: Keivrijdag/Creagfriday: informal scientific discussion, 
    see [https://github.com/richelbilderbeek/keivrijdag](https://github.com/richelbilderbeek/keivrijdag)
- * Where: Locaties varies, 
+ * Where: Locaties varies, see schedule 'Future discussions' below
  * When: see dates below, at each date from 20:00 onwards
  * Topic: see below
 
