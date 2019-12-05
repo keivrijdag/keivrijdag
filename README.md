@@ -18,8 +18,8 @@ Everything one needs to know about the Keivrijdag/Creagfriday.
 
 Date      |Topic                                                                                                  |Keivrijdag/Groningen location                                               |Stirling/Creagfriday location
 ----------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------
-2019-12-06|Phenotypic plasticity in unobservable organisms                                                        |[De Graanrepubliek](https://cafedegraanrepubliek.nl), Gedempte Kattendiep 11|[The Curly Coo Bar, 51 Barnton St](http://www.curlycoobar.com)
-2019-12-20|Warm weather makes humans cheat? Absence of extra-pair offspring of Seychelles warblers in Terre Adélie|.|.
+2019-12-06|Phenotypic plasticity in unobservable organisms                                                        |[De Graanrepubliek](https://cafedegraanrepubliek.nl), Gedempte Kattendiep 11|[not yet]
+2019-12-20|Warm weather makes humans cheat? Absence of extra-pair offspring of Seychelles warblers in Terre Adélie|.|[The Curly Coo Bar, 51 Barnton St](http://www.curlycoobar.com)
 2020-01-03|Cold weather makes humans cheat? Absence of extra-pair offspring of Ursus maritimus in Bora Bora       |.|.
 
 ## Discussed
