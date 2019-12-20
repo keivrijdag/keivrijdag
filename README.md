@@ -16,10 +16,10 @@ Everything one needs to know about the Keivrijdag/Creagfriday.
 
 ## Future discussions
 
-Date      |Topic                                                                                                  |Keivrijdag/Groningen location                                               |Stirling/Creagfriday location
-----------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------
-2019-12-20|Warm weather makes humans cheat? Absence of extra-pair offspring of Seychelles warblers in Terre Adélie|Bar de Rits, Pottebakkersrijge 2                                            |[The Curly Coo Bar, 51 Barnton St](http://www.curlycoobar.com)
-2020-01-03|Cold weather makes humans cheat? Absence of extra-pair offspring of Ursus maritimus in Bora Bora       |.|.
+Date      |Topic                                                                                                          |Keivrijdag/Groningen location                                               |Stirling/Creagfriday location
+----------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------
+2019-12-20|The evolution of the evolution of the evolution of evolvability                                                |Bar de Rits, Pottebakkersrijge 2                                            |[The Curly Coo Bar, 51 Barnton St](http://www.curlycoobar.com)
+2020-01-03|The need of a mutator strain of *Aldabrachelys gigantea* to be used as a model species in evolutionary biology |.|.
 
 ## Discussed
 
@@ -31,10 +31,10 @@ Date      |Topic                                                                
 2019-11-22|Effects on biodiversity when painting black holes orange                       |[De Sleutel](http://cafedesleutel.nl), Noorderhaven 72                      |[not yet]
 2019-12-06|Phenotypic plasticity in unobservable organisms                                                        |[De Graanrepubliek](https://cafedegraanrepubliek.nl), Gedempte Kattendiep 11|[not yet]
 
-Date|Topic|Location
----|---|---
+Date      |Topic                                                                                     |Location
+----------|------------------------------------------------------------------------------------------|---------------------------------------------------------
 2019-05-24|(first KeiVrijdag) Applications of the DAISIE model on the sub-oceanic island of Flevoland|[De Toeter](https://www.cafedetoeter.nl/), Turfsingel 6
-2019-06-07|[a forgotten Keivrijdag]|[no suggestion] 
+2019-06-07|[a forgotten Keivrijdag]                                                                  |[no suggestion] 
 2019-06-21|Can we exclude genetics in explaining altostratus behavior? Can the absence of emergent properties in its flocking behavior be explained completely by phenotypic plasticity?|[Merleyn, Meeuwerderweg 121](https://www.openstreetmap.org/node/2748526728#map=19/53.21060/6.57925)
 2019-07-05|Allopatric speciation in Patrae (but not due to mountain formation)|Bij Kimmie (formerly: Aan De Amstel), Veemarktstraat 101 (close to Oosterpoort)
 2019-07-19|The use of English and French Pokemon in measuring name-dependent speciation rates|[Kroeg van Klaas](http://www.kroegvanklaas.nl), [Oosterweg 26](https://www.openstreetmap.org/node/2748530894)
@@ -48,8 +48,8 @@ Date|Topic|Location
 2019-11-01|[Extra Keivrijdag] The evolutionary consequences of naming a sterilized pets after a phylogenetic inference model|@GiorgioBoccarella's place
 
 
-Date|Topic
----|---
+Date      |Topic
+----------|------------------------------------------------------------------------------------
 2019-02-25|(from 17:00!)The Giacomonday topic with the highest impact factor judged by altmetrics
 2019-03-11|The use of introgression to prove Foraminifera and Ovis aries are non-sister species
 2019-03-25|Emergent properties of multiple adjacent vacua
@@ -59,8 +59,8 @@ Date|Topic
 
 ### Third Era, first year
 
-Date|Topic
----|---
+Date      |Topic
+----------|----------------------------------------------------------------------
 2018-02-19|The effect of quantum physics at macro-evolutionary scale
 2018-02-26|The effect of intergalactic dark matter at micro-evolutionary scales
 2018-03-05|Emergent properties in single-rule single-agent systems in featureless donut-shaped worlds
