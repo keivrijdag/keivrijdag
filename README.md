@@ -18,18 +18,21 @@ Everything one needs to know about the Keivrijdag/Creagfriday.
 
 Date      |Topic                                                                                                          |Keivrijdag/Groningen location                                               |Stirling/Creagfriday location
 ----------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------
-2020-01-03|The need of a mutator strain of *Aldabrachelys gigantea* to be used as a model species in evolutionary biology |The Crown, Gedempte Zuiderdiep 2                                            |[The Curly Coo Bar, 51 Barnton St](http://www.curlycoobar.com)
+2020-01-10|[Extra Keivrijdag] The effect of mainland extinction on island size                                            |De Minnaar, Kleine Rozenstraat 64, deminnaar.nl                             |[not yet]
+2020-01-17|                                                                                                               |?                                                                           |[The Curly Coo Bar, 51 Barnton St](http://www.curlycoobar.com)
+
 
 ## Discussed
 
 ### Third Era, second year
 
-Date      |Topic                                                                          |Keivrijdag/Groningen location                                               |Stirling/Creagfriday location
-----------|-------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------
-2019-11-08|The many good reasons to classify microplastics as sessile bacteria without DNA|De Prins, Zwanestraat 3                                                     |[not yet]
-2019-11-22|Effects on biodiversity when painting black holes orange                       |[De Sleutel](http://cafedesleutel.nl), Noorderhaven 72                      |[not yet]
-2019-12-06|Phenotypic plasticity in unobservable organisms                                                        |[De Graanrepubliek](https://cafedegraanrepubliek.nl), Gedempte Kattendiep 11|[not yet]
+Date      |Topic                                                                                                          |Keivrijdag/Groningen location                                               |Stirling/Creagfriday location
+----------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------
+2019-11-08|The many good reasons to classify microplastics as sessile bacteria without DNA                                |De Prins, Zwanestraat 3                                                     |[not yet]
+2019-11-22|Effects on biodiversity when painting black holes orange                                                       |[De Sleutel](http://cafedesleutel.nl), Noorderhaven 72                      |[not yet]
+2019-12-06|Phenotypic plasticity in unobservable organisms                                                                |[De Graanrepubliek](https://cafedegraanrepubliek.nl), Gedempte Kattendiep 11|[not yet]
 2019-12-20|The evolution of the evolution of the evolution of evolvability                                                |Bar de Rits, Pottebakkersrijge 2                                            |[not yet]
+2020-01-03|The need of a mutator strain of *Aldabrachelys gigantea* to be used as a model species in evolutionary biology |The Crown, Gedempte Zuiderdiep 2                                            |[not yet]
 
 Date      |Topic                                                                                     |Location
 ----------|------------------------------------------------------------------------------------------|---------------------------------------------------------
