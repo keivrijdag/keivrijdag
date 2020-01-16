@@ -11,18 +11,16 @@ Everything one needs to know about the Keivrijdag/Creagfriday.
  * What: Keivrijdag/Creagfriday: informal scientific discussion, 
    see [https://github.com/richelbilderbeek/keivrijdag](https://github.com/richelbilderbeek/keivrijdag)
  * Where: Locaties varies, see schedule 'Future discussions' below
+ * Where, iff the pub is unexpectedly closed: De Minnaar, Kleine Rozenstraat 64, [www.deminnaar.nl](www.deminnaar.nl)
  * When: see dates below, at each date from 20:00 onwards
  * Topic: see below
+
 
 ## Future discussions
 
 Date      |Topic                                                                                                          |Keivrijdag/Groningen location                                               |Stirling/Creagfriday location
 ----------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------
 2020-01-17|Application of island biogeography models on islands in marine lakes                                           |Cafe De Molleboon, Nieuwe Ebbingestraat 117                                 |[The Curly Coo Bar, 51 Barnton St](http://www.curlycoobar.com)
-
-	
-
-
 
 ## Discussed
 
