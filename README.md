@@ -19,8 +19,10 @@ Everything one needs to know about the Keivrijdag/Creagfriday.
 ## Future discussions
 
 Date      |Topic                                                                                                          |Keivrijdag/Groningen location                                               |Stirling/Creagfriday location
-----------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------
-2020-01-17|Application of island biogeography models on islands in marine lakes                                           |Cafe De Molleboon, Nieuwe Ebbingestraat 117                                 |[The Curly Coo Bar, 51 Barnton St](http://www.curlycoobar.com)
+----------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------
+2020-01-31|Causes of the lack of mature pine forests on reservoir land-bridge islands                                     |?                                                                           |Nicky-Tams, 29 Baker Street, [https://www.nickytams.com](https://www.nickytams.com)
+
+
 
 ## Discussed
 
@@ -34,6 +36,7 @@ Date      |Topic                                                                
 2019-12-20|The evolution of the evolution of the evolution of evolvability                                                |Bar de Rits, Pottebakkersrijge 2                                            |[not yet]
 2020-01-03|The need of a mutator strain of *Aldabrachelys gigantea* to be used as a model species in evolutionary biology |The Crown, Gedempte Zuiderdiep 2                                            |[not yet]
 2020-01-10|[Extra Keivrijdag] The effect of mainland extinction on island size                                            |De Minnaar, Kleine Rozenstraat 64, deminnaar.nl                             |[not yet]
+2020-01-17|Application of island biogeography models on islands in marine lakes                                           |Cafe De Molleboon, Nieuwe Ebbingestraat 117                                 |[The Curly Coo Bar, 51 Barnton St](http://www.curlycoobar.com)
 
 Date      |Topic                                                                                     |Location
 ----------|------------------------------------------------------------------------------------------|---------------------------------------------------------
