@@ -11,7 +11,6 @@ Everything one needs to know about the Keivrijdag/Creagfriday.
  * What: Keivrijdag/Creagfriday: informal scientific discussion, 
    see [https://github.com/richelbilderbeek/keivrijdag](https://github.com/richelbilderbeek/keivrijdag)
  * Where: Locaties varies, see schedule 'Future discussions' below
- * Where, iff the pub is unexpectedly closed: De Minnaar, Kleine Rozenstraat 64, [www.deminnaar.nl](www.deminnaar.nl)
  * When: see dates below, at each date from 20:00 onwards
  * Topic: see below
 
@@ -20,7 +19,7 @@ Everything one needs to know about the Keivrijdag/Creagfriday.
 
 Date      |Topic                                                                                                          |Keivrijdag/Groningen location                                               |Stirling/Creagfriday location
 ----------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------
-2020-01-31|Causes of the lack of mature pine forests on reservoir land-bridge islands                                     |?                                                                           |Nicky-Tams, 29 Baker Street, [https://www.nickytams.com](https://www.nickytams.com)
+2020-01-31|Causes of the lack of mature pine forests on reservoir land-bridge islands                                     |De Kale Jonker, Gedempte Zuiderdiep 148, http://www.cafekalejonker.nl       |Nicky-Tams, 29 Baker Street, [https://www.nickytams.com](https://www.nickytams.com)
 
 
 
