@@ -19,7 +19,7 @@ Everything one needs to know about the Keivrijdag/Creagfriday.
 
 Date      |Topic                                                                                                          |Keivrijdag/Groningen location                                               |Stirling/Creagfriday location
 ----------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------
-2020-02-28|The many proofs the universe would be unstable would mature pine forests not be green                          |.                                                                           |.
+2020-02-28|The many proofs the universe would be unstable would mature pine forests not be green                          |De Valstrik. Blekerstraat 26a                                               |.
 2020-03-13|The effect of memorizing the digits of pi in attracting non- and conspecific mates                             |.                                                                           |.
 2020-03-27|Anecdotal evidence that Humo sapiens men do not always mate with people they classify as 'me mates'            |.                                                                           |.
 2020-04-10|Flevoland a volcanic island after all? Influence of the Zuidwal volcano in Dutch land formation                |.                                                                           |.
