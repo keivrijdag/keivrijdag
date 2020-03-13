@@ -19,11 +19,10 @@ Everything one needs to know about the Keivrijdag/Creagfriday.
 
 Date      |Topic                                                                                                          |Keivrijdag/Groningen location                                               |Stirling/Creagfriday location
 ----------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------
-2020-02-28|The many proofs the universe would be unstable would mature pine forests not be green                          |De Valstrik. Blekerstraat 26a                                               |.
-2020-03-13|The effect of memorizing the digits of pi in attracting non- and conspecific mates                             |.                                                                           |.
+2020-03-13|No official Keivrijdag                                                                                         |With less than 99 beloves ones :grin:                                       |Mo creag!
 2020-03-27|Anecdotal evidence that Humo sapiens men do not always mate with people they classify as 'me mates'            |.                                                                           |.
 2020-04-10|Flevoland a volcanic island after all? Influence of the Zuidwal volcano in Dutch land formation                |.                                                                           |.
-2020-04-24|.                                                                                                              |.                                                                           |.
+2020-04-24|The effect of memorizing the digits of pi in attracting non- and conspecific mates                             |.                                                                           |.
 
 ## Discussed
 
@@ -41,6 +40,7 @@ Date      |Topic                                                                
 2020-01-31|Causes of the lack of mature pine forests on reservoir land-bridge islands                                     |De Kale Jonker, Gedempte Zuiderdiep 148, http://www.cafekalejonker.nl       |Nicky-Tams, 29 Baker Street, [https://www.nickytams.com](https://www.nickytams.com)
 2020-02-07|[Extra Keivrijdag] Evidence for diversity-dependent speciation in wild Haggis                                  |De Minnaar, Kleine Rozenstraat 64, deminnaar.nl                             |Mo Chreach!
 2020-02-14|The effect of tattoos of prime numbers in attracting non-conspecific mates                                     |Bar de Rits, Pottebakkersrijge 2                                            |Mo Chreach!
+2020-02-28|The many proofs the universe would be unstable would mature pine forests not be green                          |De Valstrik. Blekerstraat 26a                                               |Mo creag!
 
 Date      |Topic                                                                                     |Location
 ----------|------------------------------------------------------------------------------------------|---------------------------------------------------------
