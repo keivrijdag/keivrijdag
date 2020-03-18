@@ -14,13 +14,11 @@ Everything one needs to know about the Keivrijdag/Creagfriday.
  * When: see dates below, at each date from 20:00 onwards
  * Topic: see below
 
-
 ## Future discussions
 
 Date      |Topic                                                                                                          |Keivrijdag/Groningen location                                               |Stirling/Creagfriday location
 ----------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------
-2020-03-13|No official Keivrijdag                                                                                         |With less than 99 beloves ones :grin:                                       |Mo creag!
-2020-03-27|Anecdotal evidence that Humo sapiens men do not always mate with people they classify as 'me mates'            |.                                                                           |.
+2020-03-27|Anecdotal evidence that Humo sapiens men do not always mate with people they classify as 'me mates'            |Discord, send a Friend Request to `richelbilderbeek#9002`                   |.
 2020-04-10|Flevoland a volcanic island after all? Influence of the Zuidwal volcano in Dutch land formation                |.                                                                           |.
 2020-04-24|The effect of memorizing the digits of pi in attracting non- and conspecific mates                             |.                                                                           |.
 
@@ -41,6 +39,7 @@ Date      |Topic                                                                
 2020-02-07|[Extra Keivrijdag] Evidence for diversity-dependent speciation in wild Haggis                                  |De Minnaar, Kleine Rozenstraat 64, deminnaar.nl                             |Mo Chreach!
 2020-02-14|The effect of tattoos of prime numbers in attracting non-conspecific mates                                     |Bar de Rits, Pottebakkersrijge 2                                            |Mo Chreach!
 2020-02-28|The many proofs the universe would be unstable would mature pine forests not be green                          |De Valstrik. Blekerstraat 26a                                               |Mo creag!
+2020-03-13|No official Keivrijdag                                                                                         |With less than 99 beloved ones :grin:                                       |Mo creag!
 
 Date      |Topic                                                                                     |Location
 ----------|------------------------------------------------------------------------------------------|---------------------------------------------------------
