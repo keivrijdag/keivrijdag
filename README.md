@@ -1,26 +1,27 @@
-# Keivrijdag/Creagfriday
+# Keivrijdag
 
 Branch  |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 --------|-----------------------------------------------------------------------------------------------------------------------------------------
-`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/Keivrijdag.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Keivrijdag)
+`master`|[![Build Status](https://travis-ci.org/keivrijdag/Keivrijdag.svg?branch=master)](https://travis-ci.org/keivrijdag/Keivrijdag)
 
 ![Keivrijdag](pics/keivrijdag.png)
 
-Everything one needs to know about the Keivrijdag/Creagfriday.
+Everything one needs to know about the Keivrijdag.
 
- * What: Keivrijdag/Creagfriday: informal scientific discussion, 
-   see [https://github.com/richelbilderbeek/keivrijdag](https://github.com/richelbilderbeek/keivrijdag)
+ * What: Keivrijdag: informal scientific discussion, 
+   see [https://github.com/keivrijdag/keivrijdag](https://github.com/keivrijdag/keivrijdag)
  * Where: Locaties varies, see schedule 'Future discussions' below
  * When: see dates below, at each date from 20:00 onwards
  * Topic: see below
 
 ## Future discussions
 
-Date      |Topic                                                                                                          |Keivrijdag/Groningen location                                               |Stirling/Creagfriday location
-----------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------
-2020-03-27|Anecdotal evidence that Humo sapiens men do not always mate with people they classify as 'me mates'            |Discord, send a Friend Request to `richelbilderbeek#9002`                   |.
-2020-04-10|Flevoland a volcanic island after all? Influence of the Zuidwal volcano in Dutch land formation                |.                                                                           |.
-2020-04-24|The effect of memorizing the digits of pi in attracting non- and conspecific mates                             |.                                                                           |.
+Date      |Topic                                                                                                          |Keivrijdag/Groningen location                                               
+----------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------
+2020-03-27|Cancelled                                                                                                      |NA
+2020-04-10|Anecdotal evidence that Humo sapiens men do not always mate with people they classify as 'me mates'            |?
+2020-04-24|Flevoland a volcanic island after all? Influence of the Zuidwal volcano in Dutch land formation                |.                                                                           
+2020-05-08|The effect of memorizing the digits of pi in attracting non- and conspecific mates                             |.                                                                           
 
 ## Discussed
 
@@ -150,10 +151,10 @@ view you as parasitically bathing in our hard-earned
 wisdom. On the other hand, perhaps we should slow
 down on being serious all the time.
 
-### What is it with that Keivrijdag/Creagfriday?
+### What was Creagfriday?
 
-The same event is organised in parallel in Groningen
-and Stirling. See the rich history of these events below. 
+Creagfriday was the Keivrijdag in Stirling. 
+See the rich history of these events below. 
 
 ### Why is it called Keivrijdag?
 
@@ -161,7 +162,7 @@ and Stirling. See the rich history of these events below.
 Additionally, 'vrij' is Dutch for 'free' as used in 'freedom' (among others),
 so it is a very free Friday! 
 
-### Why is it called Creagfriday?
+### Why was it called Creagfriday?
 
 'creag' is Scottish Gaelic for rock.
 The 'Kei' in Creagfriday's ancestral event 'Keivrijdag' is
@@ -233,3 +234,6 @@ renamed to 'Keivrijdag'. At the Keivrijdag, the pub location varies.
 At around November 2019, a Keivrijdag regular, Theo Pannetier,
 decided to enrich the Scottish culture in Stirling by organising
 a Keivrijdag there in parallel, where it will be called 'Creagfriday'.
+Similar to the Giacomonday's first era, the 'Creagfriday' 
+died a silent death at around March 2020.
+
