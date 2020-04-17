@@ -18,8 +18,7 @@ Everything one needs to know about the Keivrijdag.
 
 Date      |Topic                                                                                                          |Keivrijdag/Groningen location                                               
 ----------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------
-2020-03-27|Cancelled                                                                                                      |NA
-2020-04-10|Anecdotal evidence that Humo sapiens men do not always mate with people they classify as 'me mates'            |?
+2020-04-17|[Extra Keivrijdag] Anecdotal evidence that Humo sapiens men do not always mate with people they classify as 'me mates'            |Skype
 2020-04-24|Flevoland a volcanic island after all? Influence of the Zuidwal volcano in Dutch land formation                |.                                                                           
 2020-05-08|The effect of memorizing the digits of pi in attracting non- and conspecific mates                             |.                                                                           
 
@@ -41,6 +40,7 @@ Date      |Topic                                                                
 2020-02-14|The effect of tattoos of prime numbers in attracting non-conspecific mates                                     |Bar de Rits, Pottebakkersrijge 2                                            |Mo Chreach!
 2020-02-28|The many proofs the universe would be unstable would mature pine forests not be green                          |De Valstrik. Blekerstraat 26a                                               |Mo creag!
 2020-03-13|No official Keivrijdag                                                                                         |With less than 99 beloved ones :grin:                                       |Mo creag!
+2020-03-27|Cancelled                                                                                                      |NA
 
 Date      |Topic                                                                                     |Location
 ----------|------------------------------------------------------------------------------------------|---------------------------------------------------------
