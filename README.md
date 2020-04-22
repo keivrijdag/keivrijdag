@@ -45,8 +45,6 @@ Date      |Topic                                                                
 2020-03-13|No official Keivrijdag                                                                                         |With less than 99 beloved ones :grin:                                       |Mo creag!
 2020-03-27|Cancelled                                                                                                      |NA
 
-
-
 Date      |Topic                                                                                     |Location
 ----------|------------------------------------------------------------------------------------------|---------------------------------------------------------
 2019-05-24|(first KeiVrijdag) Applications of the DAISIE model on the sub-oceanic island of Flevoland|[De Toeter](https://www.cafedetoeter.nl/), Turfsingel 6
@@ -138,10 +136,12 @@ that may potentially have good reasons not to read up.
 ### I want to contribute a topic
 
 Great! Send a Pull Request, post an Issue 
-or email to @richelbilderbeek or @TheoPannetier.
+or email to @richelbilderbeek.
 
-This will open up the option to suggest a pub in
-Groningen, Stirling or both. You are encouraged to do so :+1:
+This will open up the option to suggest a pub. You are encouraged to do so :+1:
+
+:warning: instead of a real-life pub, you can submit the URL of
+your favorite online video-chatroom.
 
 ### I only want to suggest a pub!
 
@@ -242,3 +242,5 @@ a Keivrijdag there in parallel, where it will be called 'Creagfriday'.
 Similar to the Giacomonday's first era, the 'Creagfriday' 
 died a silent death at around March 2020.
 
+Due to some pandemic, the Keivrijdag moved online. Halfway April 2020,
+Pedro Neves organised the first online Keivrijdag.
