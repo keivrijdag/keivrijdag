@@ -18,8 +18,8 @@ Everything one needs to know about the Keivrijdag.
 
 Date      |Topic                                                                                                                 |Location                                               
 ----------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------
-2020-04-24|Flevoland a volcanic island after all? Influence of the Zuidwal volcano in Dutch land formation                       |[https://discord.gg/PzsR6dF](https://discord.gg/PzsR6dF)
-2020-05-08|The effect of memorizing the digits of pi in attracting non- and conspecific mates                                    |.                                                                           
+2020-05-08|The effect of memorizing the digits of pi in attracting non- and conspecific mates                                    |[https://discord.gg/PzsR6dF](https://discord.gg/PzsR6dF)                                                                           
+2020-05-22|Evidence for strong selection on transmembrane helices in hydrophilic cell membranes                                  |[https://discord.gg/PzsR6dF](https://discord.gg/PzsR6dF)                    
 
 ## Discussed
 
@@ -28,6 +28,7 @@ Date      |Topic                                                                
 Date      |Topic                                                                                                                 |Location                                               
 ----------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------
 2020-04-17|[Extra Keivrijdag] Anecdotal evidence that Humo sapiens men do not always mate with people they classify as 'me mates'|Skype
+2020-04-24|Flevoland a volcanic island after all? Influence of the Zuidwal volcano in Dutch land formation                       |[https://discord.gg/PzsR6dF](https://discord.gg/PzsR6dF)
 
 Date      |Topic                                                                                                          |Keivrijdag/Groningen location                                               |Stirling/Creagfriday location
 ----------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------
