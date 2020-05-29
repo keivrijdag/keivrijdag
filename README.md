@@ -18,7 +18,7 @@ Everything one needs to know about the Keivrijdag.
 
 Date      |Topic                                                                                                                 |Location                                               
 ----------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------
-2020-05-29|The linguistic evolution from abbababba to banana                                                                     |[https://discord.gg/PzsR6dF](https://discord.gg/PzsR6dF)                    
+2020-06-05|The linguistic evolution from abbababba to banana                                                                     |[https://discord.gg/PzsR6dF](https://discord.gg/PzsR6dF)                    
 
 ## Discussed
 
