@@ -18,7 +18,8 @@ Everything one needs to know about the Keivrijdag.
 
 Date      |Topic                                                                                                                 |Location                                               
 ----------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------
-2020-06-05|The linguistic evolution from abbababba to banana                                                                     |[https://discord.gg/PzsR6dF](https://discord.gg/PzsR6dF)                    
+2020-06-05|The effect of IST1+ structures on diversification rate                                                                |[https://discord.gg/PzsR6dF](https://discord.gg/PzsR6dF)                    
+2020-06-19|The linguistic evolution from abbababba to banana                                                                     |.
 
 ## Discussed
 
