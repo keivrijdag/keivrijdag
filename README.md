@@ -16,6 +16,10 @@ Everything one needs to know about the Keivrijdag.
 
 ## Future discussions
 
+Date      |Topic                                                                                                                 |Location                                               
+----------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------
+2020-09-11|Spontaneous speciation from spider-mites to thrips                                                                    |[https://discord.gg/PzsR6dF](https://discord.gg/PzsR6dF)                    
+
 None planned.
 
 ## Discussed
