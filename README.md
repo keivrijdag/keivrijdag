@@ -10,7 +10,7 @@ Everything one needs to know about the Keivrijdag.
 
  * What: Keivrijdag: informal scientific discussion, 
    see [https://github.com/keivrijdag/keivrijdag](https://github.com/keivrijdag/keivrijdag)
- * Where: Locaties varies, see schedule 'Future discussions' below
+ * Where: the online Discord Keivrijdag server, get yourself invited by `richelbilderbeek#9002` or other colleagues
  * When: see dates below, at each date from 20:00 onwards
  * Topic: see below
 
