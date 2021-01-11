@@ -35,7 +35,7 @@ Date      |Topic                                                                
 2020-06-05|The effect of IST1+ structures on diversification rates                                                               |[https://discord.gg/PzsR6dF](https://discord.gg/PzsR6dF)                    
 2020-06-19|Evolution of unemployed and homeless people that drink beer on the streets                                            |[If dry: grassfield between Blauwborg and Linnaeusborg](https://www.openstreetmap.org/#map=19/53.24082/6.5369) or [if rainy: underneath the Linnaeusborg bridge](https://www.openstreetmap.org/#map=19/53.24145/6.53802)
 2020-09-11|Spontaneous speciation from spider-mites to thrips                                                                    |[https://discord.gg/PzsR6dF](https://discord.gg/PzsR6dF)                    
-2021-01-11|[unofficial Keivrijdag]                                                                                               |Discord
+2021-01-11|[unofficial Giacomonday]                                                                                              |Discord
 
 Date      |Topic                                                                                                          |Keivrijdag/Groningen location                                               |Stirling/Creagfriday location
 ----------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------
