@@ -18,7 +18,7 @@ Everything one needs to know about the Keivrijdag.
 
 Date      |Topic                                                                                                                 |Location                                               
 ----------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------
-2020-11-06|The effect of online meeting platform on the spread of STDs                                                           |Keivrijdag Discord server, [https://discord.gg/PzsR6dF](https://discord.gg/PzsR6dF)                    
+2021-04-02|[Starts at 19:00] Removing false positives obtained by machine learning techniques when your data is white noise                        |Keivrijdag Discord server, [https://discord.gg/PzsR6dF](https://discord.gg/PzsR6dF)                    
 
 None planned.
 
@@ -35,6 +35,7 @@ Date      |Topic                                                                
 2020-06-05|The effect of IST1+ structures on diversification rates                                                               |[https://discord.gg/PzsR6dF](https://discord.gg/PzsR6dF)                    
 2020-06-19|Evolution of unemployed and homeless people that drink beer on the streets                                            |[If dry: grassfield between Blauwborg and Linnaeusborg](https://www.openstreetmap.org/#map=19/53.24082/6.5369) or [if rainy: underneath the Linnaeusborg bridge](https://www.openstreetmap.org/#map=19/53.24145/6.53802)
 2020-09-11|Spontaneous speciation from spider-mites to thrips                                                                    |[https://discord.gg/PzsR6dF](https://discord.gg/PzsR6dF)                    
+2020-11-06|The effect of online meeting platform on the spread of STDs                                                           |Keivrijdag Discord server, [https://discord.gg/PzsR6dF](https://discord.gg/PzsR6dF)                    
 2021-01-11|[unofficial Giacomonday]                                                                                              |Discord
 
 Date      |Topic                                                                                                          |Keivrijdag/Groningen location                                               |Stirling/Creagfriday location
