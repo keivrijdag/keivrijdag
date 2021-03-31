@@ -1,9 +1,5 @@
 # Keivrijdag
 
-Branch  |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
---------|-----------------------------------------------------------------------------------------------------------------------------------------
-`master`|[![Build Status](https://travis-ci.org/keivrijdag/Keivrijdag.svg?branch=master)](https://travis-ci.org/keivrijdag/Keivrijdag)
-
 ![Keivrijdag](pics/keivrijdag.png)
 
 Everything one needs to know about the Keivrijdag.
@@ -19,8 +15,6 @@ Everything one needs to know about the Keivrijdag.
 Date      |Topic                                                                                                                 |Location                                               
 ----------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------
 2021-04-02|[Starts at 19:00] Removing false positives obtained by machine learning techniques when your data is white noise                        |Keivrijdag Discord server, [https://discord.gg/PzsR6dF](https://discord.gg/PzsR6dF)                    
-
-None planned.
 
 ## Discussed
 
