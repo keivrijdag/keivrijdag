@@ -14,6 +14,7 @@ Everything one needs to know about the Keivrijdag.
 
 Date      |Topic                                                                                                                 |Location                                               
 ----------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------
+2023-07-07|Predator-prey dynamics of hare and lynx/leopard/cheetah|Cafe De Minnaar
 2021-04-02|[Starts at 19:00] Removing false positives obtained by machine learning techniques when your data is white noise                        |Keivrijdag Discord server, [https://discord.gg/PzsR6dF](https://discord.gg/PzsR6dF)                    
 
 ## Discussed
